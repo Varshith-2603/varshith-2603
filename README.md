@@ -1,245 +1,82 @@
-<div align="center">
+# 💫 About Me
 
-# Hi there 👋, I'm Varshith
+- 🖥️ Building AI/ML applications and computer vision systems
+- 🤖 Combining AI with robotics and mechatronics
+- 🧠 Learning machine learning, deep learning, LLMs and RAG
+- ⚙️ Interested in AI engineering, ML systems and deployment
+- 🔧 Background in CAD, embedded systems and rapid prototyping
+- 📚 Currently strengthening DSA, ML fundamentals, math for ML and software engineering
+- 🚀 I enjoy taking a problem from idea → implementation → evaluation → usable application
 
-### AI/ML Engineer | Computer Vision | Robotics
+## 🌐 Connect With Me
 
-**B.Tech Mechatronics Engineer** focused on building practical AI systems, machine learning applications and intelligent engineering solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalla-varshith-0aa11b258/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varshith_reddy26)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshith.thalla@gmail.com)
 
-</div>
+## 💻 Tech Stack
 
----
+**Languages**
 
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://github.com/Varshith-2603.png" width="180" alt="Varshith profile picture">
+**ML / Deep Learning**
 
-### Thalla Varshith
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**AI/ML Engineer**  
-Computer Vision · Robotics  
-Mechatronics Engineering
+**Data & Analysis**
 
-India
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/thalla-varshith-0aa11b258/)  
-[Email](mailto:varshith.thalla@gmail.com)
+**Deployment & MLOps**
 
-</td>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<td width="70%" valign="top">
+**Design & Hardware**
 
-## About Me
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E4002B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- 🖥️ Building **AI/ML applications and computer vision systems**
-- 🤖 Combining **AI with robotics and mechatronics**
-- 🧠 Learning **machine learning, deep learning, LLMs and RAG**
-- ⚙️ Interested in **AI engineering, ML systems and deployment**
-- 🔧 Background in **CAD, embedded systems and rapid prototyping**
-- 📚 Currently strengthening **DSA, ML fundamentals and software engineering**
+## 🛠️ Featured Projects
 
-I enjoy taking a problem from **idea → implementation → evaluation → usable application**.
+- 🎯 **Human Face Detection** — real-time face detection using OpenCV's DNN module with pretrained TensorFlow models, deployed for live camera inference
+- 🚗 **Bluetooth-Controlled Car** — Arduino + L298N motor driver robotic car with custom motion control
+- ⚙️ **Gear Pump Design** — 3D-printed working mechanical model, from CAD to fabrication and assembly
+- 🦾 **Robotic Arm Design** — kinematic modeling and assembly in SolidWorks *(in progress)*
 
-</td>
-</tr>
-</table>
+## 📊 GitHub Stats
 
----
+![](https://github-readme-stats.vercel.app/api?username=Varshith-2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-## 🛠️ Tech Stack
+![](https://streak-stats.demolab.com/?user=Varshith-2603&theme=dark&hide_border=false)
 
-<table>
-<tr>
-<td><b>Languages & Data</b></td>
-<td>Python · SQL · NumPy · Pandas</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>PyTorch · TensorFlow · Keras · Scikit-learn</td>
-</tr>
-<tr>
-<td><b>Computer Vision</b></td>
-<td>OpenCV · Image Processing · Deep Learning</td>
-</tr>
-<tr>
-<td><b>Backend & Apps</b></td>
-<td>FastAPI · Streamlit</td>
-</tr>
-<tr>
-<td><b>Robotics & Engineering</b></td>
-<td>Arduino · SolidWorks · 3D Printing · Rapid Prototyping</td>
-</tr>
-<tr>
-<td><b>Developer Tools</b></td>
-<td>Git · GitHub · VS Code · Google Colab</td>
-</tr>
-</table>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,fastapi,git,github,arduino&perline=11&theme=dark" alt="Technology stack">
-</p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Varshith-2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 🚀 Featured Projects
+[![](https://komarev.com/ghpvc/?username=Varshith-2603&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Human Face & Emotion Detection
-
-**Python · OpenCV · TensorFlow/Keras**
-
-Computer vision project for face detection and facial-expression classification with real-time image processing.
-
-[View repository →](https://github.com/Varshith-2603/emotion-detector)
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI/ML Engineering Tasks
-
-**Python · ML · Deep Learning · Mathematics**
-
-Structured workspace for developing Python, mathematical, machine learning and AI engineering foundations.
-
-[View repository →](https://github.com/Varshith-2603/ai-ml-engineering-tasks)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Bluetooth-Controlled Car
-
-**Arduino · Embedded Systems · Bluetooth**
-
-Arduino-based mobile robot integrating Bluetooth control, motor driving and hardware components.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Robotic Arm Design
-
-**SolidWorks · Robotics · Motion Analysis**
-
-Robotic arm modelling and assembly work developed as part of my robotics engineering track.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Gear Pump Design & Prototype
-
-**CAD · 3D Printing · PLA**
-
-Designed a working gear-pump model and developed a physical prototype using FDM 3D printing.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering + AI
-
-**Mechatronics · AI · Automation**
-
-Exploring applications where software, machine learning, embedded systems and physical engineering work together.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Overview
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### GitHub Stats
-
-<img src="./profile-stats.svg" width="100%" alt="GitHub profile overview">
-
-</td>
-
-<td width="50%" valign="top">
-
-### Contribution Activity
-
-<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution activity">
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Engineering Experience
-
-### Lohitha Power Products — Electrical Engineering Intern
-
-**Hyderabad**
-
-Worked with electrical power equipment and developed practical exposure to:
-
-- Servo-controlled voltage stabilizers
-- Air-cooled transformers
-- Ultra-isolation transformers
-- Electrical loads and power factor
-- MCBs and power-quality fundamentals
-
-This experience connected electrical engineering theory with practical industrial equipment and systems.
-
----
-
-## 🎓 Education
-
-**B.Tech — Mechatronics Engineering**  
-ICFAI Tech School, Hyderabad
-
-**Core areas:** Mechatronics · Robotics · Electronics · Control Systems · Programming · AI/ML
-
----
-
-## 🏆 Certifications & Practical Training
-
-- **3D Printing Machine** — Understanding & Operation
-- **Drone Technology** — Parts Dismantling & Assembly
-- **Rapid Prototyping** — Laser Scanning Technology
-
----
-
-## 📌 Current Focus
-
-<table>
-<tr>
-<td align="center">DSA</td>
-<td>→</td>
-<td align="center">Machine Learning</td>
-<td>→</td>
-<td align="center">Deep Learning</td>
-<td>→</td>
-<td align="center">AI Engineering</td>
-</tr>
-<tr>
-<td colspan="7" align="center">Computer Vision · LLMs · RAG · Deployment · ML Systems</td>
-</tr>
-</table>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalla-varshith-0aa11b258/)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
