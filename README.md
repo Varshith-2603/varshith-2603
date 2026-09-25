@@ -60,6 +60,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+## 📌 Pinned & Frequently Contributed Repositories
+
+> GitHub only lets you choose pins from your own profile settings (not from a README), so these render as cards — go to your profile → **Customize your pins** and pick the same repos to make them "officially" pinned too. Swap the placeholder repo names below for your actual repo names (case-sensitive).
+
+[![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-2603&repo=Human-Face-Detection&theme=dark)](https://github.com/Varshith-2603/Human-Face-Detection)
+[![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-2603&repo=Bluetooth-Controlled-Car&theme=dark)](https://github.com/Varshith-2603/Bluetooth-Controlled-Car)
+
 ## 🛠️ Featured Projects
 
 - 🎯 **Human Face Detection** — real-time face detection using OpenCV's DNN module with pretrained TensorFlow models, deployed for live camera inference
@@ -75,6 +82,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## ⏱️ WakaTime Weekly Stats
+
+> This card only populates once you install the [WakaTime](https://wakatime.com/) editor plugin and code with it for a few days — until then it'll show as empty. Replace `your-wakatime-username` below with your real WakaTime username once you've signed up.
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=dark&hide_border=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -82,6 +95,54 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Varshith-2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📈 GitHub Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Varshith-2603&theme=react-dark&hide_border=false&area=true)
+
+## 🐍 Contribution Snake
+
+> This one animates a snake eating your contribution graph — it needs a tiny one-time setup (a GitHub Actions workflow) since it can't be generated from a plain image link. Setup steps are below the image.
+
+![snake gif](https://raw.githubusercontent.com/Varshith-2603/Varshith-2603/output/github-contribution-grid-snake.svg)
+
+<details>
+<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
+
+1. In your `Varshith-2603/Varshith-2603` profile repo, create the file `.github/workflows/snake.yml` with the workflow below.
+2. Push it to `main` — it runs automatically once a day (and on push) and commits the generated SVG to an `output` branch, which is what the image link above pulls from.
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Varshith-2603
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
