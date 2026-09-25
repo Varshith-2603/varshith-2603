@@ -1,3 +1,15 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thalla%20Varshith&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Mechatronics%20Engineering%20Student%20%7C%20Hyderabad%2C%20India&descAlignY=55&descSize=18)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thalla-varshith-0aa11b258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://instagram.com/varshith_reddy26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:varshith.thalla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI%2FML+applications+and+CV+systems;Exploring+LLMs%2C+RAG+and+AI+Agents;Merging+Mechatronics+with+Machine+Learning" alt="Typing SVG" />
+</p>
+
 # 💫 About Me
 
 - 🖥️ Building AI/ML applications and computer vision systems
@@ -7,12 +19,6 @@
 - 🔧 Background in CAD, embedded systems and rapid prototyping
 - 📚 Currently strengthening DSA, ML fundamentals, math for ML and software engineering
 - 🚀 I enjoy taking a problem from idea → implementation → evaluation → usable application
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalla-varshith-0aa11b258/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varshith_reddy26)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshith.thalla@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -67,13 +73,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📌 My Repositories
+## 🏆 GitHub Trophies
 
-- 🧠 **[AI/ML Engineering Tasks](https://github.com/Varshith-2603/ai-ml-engineering-tasks)** — AI/ML learning, engineering practice and implementations
-- 🎯 **[Human Face & Emotion Detection](https://github.com/Varshith-2603/emotion-detector)** — Computer vision and facial-expression detection
-- 📱 **[Manim Templates — SkillBanc](https://github.com/Varshith-2603/manim-templates-skill-banc)** — Educational animation and Manim templates
-- 👤 **[Varshith-2603 Profile](https://github.com/Varshith-2603/varshith-2603)** — Personal GitHub profile and portfolio
+![](https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Varshith-2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
