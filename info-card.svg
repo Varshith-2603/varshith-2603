@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 490">
+<style>@keyframes line{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}.item{animation:line .3s ease-out both}</style>
+<rect width="850" height="490" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="848" height="35" rx="14" fill="#161b22"/>
+<circle cx="22" cy="18" r="5" fill="#ff7b72"/><circle cx="40" cy="18" r="5" fill="#d29922"/><circle cx="58" cy="18" r="5" fill="#3fb950"/>
+<text x="78" y="23" fill="#8b949e" font-family="monospace" font-size="12">varshith@github ~ $ neofetch</text>
+<text x="42" y="76" fill="#7dd3fc" font-family="monospace" font-size="24" font-weight="700">THALLA VARSHITH</text>
+<text x="42" y="99" fill="#8b949e" font-family="monospace" font-size="12">B.Tech Mechatronics • India</text>
+<g font-family="monospace" font-size="13">
+<text class="item" x="42" y="140" fill="#7ee787">ROLE      </text><text class="item" x="165" y="140" fill="#c9d1d9">AI/ML Engineer</text>
+<text class="item" x="42" y="178" fill="#7ee787">FOCUS     </text><text class="item" x="165" y="178" fill="#c9d1d9">Applied AI • Computer Vision</text>
+<text class="item" x="42" y="216" fill="#7ee787">DOMAIN    </text><text class="item" x="165" y="216" fill="#c9d1d9">Robotics • Mechatronics</text>
+<text class="item" x="42" y="254" fill="#7ee787">STACK     </text><text class="item" x="165" y="254" fill="#c9d1d9">Python • PyTorch • TensorFlow</text>
+<text class="item" x="42" y="292" fill="#7ee787">TOOLS     </text><text class="item" x="165" y="292" fill="#c9d1d9">OpenCV • FastAPI • Streamlit</text>
+<text class="item" x="42" y="330" fill="#7ee787">BUILDING  </text><text class="item" x="165" y="330" fill="#c9d1d9">Intelligent Systems</text>
+<text class="item" x="42" y="368" fill="#7ee787">LEARNING  </text><text class="item" x="165" y="368" fill="#c9d1d9">LLMs • RAG • ML Systems</text>
+<text class="item" x="42" y="406" fill="#7ee787">MINDSET   </text><text class="item" x="165" y="406" fill="#c9d1d9">Build • Test • Learn • Improve</text>
+</g>
+<line x1="42" y1="456" x2="808" y2="456" stroke="#30363d"/>
+<text x="42" y="478" fill="#8b949e" font-family="monospace" font-size="11">mechatronics → software → data → AI → intelligent systems</text>
+</svg>
