@@ -164,8 +164,4 @@ The source photo and intermediate image are ignored by Git so they do not become
 &nbsp;•&nbsp;
 <a href="https://github.com/Varshith-2603">GitHub</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Varshith-2603&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
-
 </div>
