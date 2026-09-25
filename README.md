@@ -88,64 +88,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Varshith-2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 📈 GitHub Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Varshith-2603&theme=react-dark&hide_border=false&area=true)
 
 ## 🐍 Contribution Snake
 
 > This one animates a snake eating your contribution graph — it needs a tiny one-time setup (a GitHub Actions workflow) since it can't be generated from a plain image link. Setup steps are below the image.
 
 ![snake gif](https://raw.githubusercontent.com/Varshith-2603/Varshith-2603/output/github-contribution-grid-snake.svg)
-
-<details>
-<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
-
-1. In your `Varshith-2603/Varshith-2603` profile repo, create the file `.github/workflows/snake.yml` with the workflow below.
-2. Push it to `main` — it runs automatically once a day (and on push) and commits the generated SVG to an `output` branch, which is what the image link above pulls from.
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Varshith-2603
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-[![](https://komarev.com/ghpvc/?username=Varshith-2603&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
