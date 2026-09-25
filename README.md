@@ -1,232 +1,171 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="THALLA VARSHITH — AI ML Engineer">
+<h3><code>varshith@github ~ $ ./contributions.sh</code></h3>
 
-</div>
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap">
 
-## 🔗 About Me
+<br><br>
+
+<h3><code>varshith@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-```python
-varshith = {
-    "role": "AI/ML Engineer",
-    "background": "B.Tech Mechatronics",
-    "location": "India 🇮🇳",
-
-    "building": [
-        "AI / ML Systems",
-        "Computer Vision",
-        "Robotics + AI",
-        "Intelligent Automation"
-    ],
-
-    "learning": [
-        "Machine Learning",
-        "Deep Learning",
-        "LLM Engineering",
-        "ML Systems"
-    ],
-
-    "engineering": [
-        "SolidWorks",
-        "Rapid Prototyping",
-        "Embedded Systems",
-        "3D Printing"
-    ]
-}
-```
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="./assets/ai-workspace.svg" width="100%" alt="AI workspace illustration">
-
-</td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated ASCII profile portrait"></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch-style profile information"></td>
 </tr>
 </table>
 
-> *Building intelligent systems where software, data, AI and physical engineering meet.*
+<br>
+
+<code>varshith@github ~ $ cat README.md</code>
+
+</div>
 
 ---
 
-## 💬 Engineering Philosophy
+## 🧠 About
 
-> **Learn deeply. Build practically. Test relentlessly. Improve continuously.**
+I'm **Thalla Varshith**, a B.Tech Mechatronics Engineer building toward **AI/ML Engineering, Applied AI, Computer Vision, and Robotics + AI**.
 
----
+My work sits at the intersection of:
 
-## 🤝 Connect With Me
+`MECHATRONICS` → `SOFTWARE` → `DATA` → `AI` → `INTELLIGENT SYSTEMS`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/thalla-varshith-0aa11b258/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:varshith.thalla@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/Varshith-2603"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+### Current Focus
+
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🧠 LLM Engineering, Transformers & RAG
+- 🦾 Robotics and intelligent automation
+- ⚙️ SolidWorks, 3D printing & rapid prototyping
+- 💻 Python, PyTorch, TensorFlow, OpenCV and AI engineering tools
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=10&theme=dark" alt="Python PyTorch TensorFlow Scikit-learn">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,git,github,fastapi,arduino&perline=10&theme=dark" alt="Technology stack">
 </p>
 
-### 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=10&theme=dark" alt="NumPy Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/SciPy-111827?style=for-the-badge&logo=scipy&logoColor=8CAAE6" alt="SciPy">
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
+<img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+<img src="https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=E31B23" alt="SolidWorks">
+<img src="https://img.shields.io/badge/3D%20Printing-0d1117?style=for-the-badge" alt="3D Printing">
+<img src="https://img.shields.io/badge/LLMs%20%2B%20RAG-0d1117?style=for-the-badge" alt="LLMs and RAG">
 </p>
-
-### 👁️ Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge" alt="Deep Learning">
-<img src="https://img.shields.io/badge/TensorFlow%20DNN-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow DNN">
-</p>
-
-### 🧠 AI / LLM Engineering — Learning
-
-<p>
-<img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers">
-<img src="https://img.shields.io/badge/BERT-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="BERT">
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge" alt="Embeddings">
-</p>
-
-### 💻 Software & Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,fastapi&perline=10&theme=dark" alt="Git GitHub FastAPI">
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
-</p>
-
-### 🤖 Robotics & Mechatronics
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino&perline=10&theme=dark" alt="Arduino">
-<img src="https://img.shields.io/badge/SolidWorks-111827?style=for-the-badge&logo=dassaultsystemes&logoColor=E31B23" alt="SolidWorks">
-<img src="https://img.shields.io/badge/3D%20Printing-111827?style=for-the-badge" alt="3D Printing">
-<img src="https://img.shields.io/badge/Rapid%20Prototyping-111827?style=for-the-badge" alt="Rapid Prototyping">
-<img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge" alt="Embedded Systems">
-</p>
-
-> **Note:** Java and C are intentionally excluded from the displayed profile stack.
 
 ---
 
-## 🚀 Project Domains
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI / ML & Computer Vision
+### `01` — AI / ML & Computer Vision
 
 **Human Face Detection**  
-OpenCV DNN + pretrained TensorFlow models + real-time camera inference.
+Real-time face detection using OpenCV's DNN module and pretrained TensorFlow models.
+
+→ [Repository](https://github.com/Varshith-2603/emotion-detector)
+
+### `02` — AI/ML Engineering Practice
 
 **AI/ML Engineering Tasks**  
-Structured practice across Python, mathematics, DSA, SQL, ML and AI engineering.
+Structured practice covering Python, mathematics, DSA, SQL, machine learning, deep learning and AI engineering.
 
-</td>
-<td width="50%" valign="top">
+→ [Repository](https://github.com/Varshith-2603/ai-ml-engineering-tasks)
 
-### 🦾 Robotics & Embedded
+### `03` — Robotics & Embedded Systems
 
 **Bluetooth-Controlled Car**  
-Arduino + L298N motor driver + Bluetooth + hardware troubleshooting.
+Arduino + L298N motor driver + Bluetooth control + hardware troubleshooting.
 
 **Robotic Arm Design**  
-SolidWorks modelling, assembly and kinematic analysis *(in progress)*.
+SolidWorks modelling, assembly and kinematic analysis — *in progress*.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Mechanical Design
+### `04` — Mechanical Design & Rapid Prototyping
 
 **Gear Pump Design & Working Model**  
 3D modelling, FDM printing with PLA, dimensional validation and prototype assembly.
 
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Engineering Direction
-
-AI × Data × Vision × Robotics  
-Mechatronics → Software → Intelligent Systems
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Varshith-2603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-2603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Varshith-2603&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith-2603&theme=tokyo-night&hide_border=true&area=true&custom_title=Varshith%20GitHub%20Contribution%20Graph" width="96%" alt="GitHub contribution activity graph">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="96%" alt="GitHub trophies">
-</p>
-
----
-
-## 🎓 Experience & Certifications
+## 🧪 Engineering Experience
 
 **Lohitha Power Products — Electrical Engineering Intern**  
-Hyderabad · Jun 2024 – Jul 2024
+*Hyderabad · Jun 2024 – Jul 2024*
 
 - Servo-controlled voltage stabilizers
 - Air-cooled and ultra-isolation transformers
 - MCBs and power-quality concepts
 - Industrial safety and electrical systems
 
-**Certifications / Practical Training**
+---
+
+## 🎓 Certifications
+
 - 3D Printing Machine — Understanding & Operation
 - Drone Technology — Parts Dismantling & Assembly
 - Rapid Prototyping Using Laser Scanning Technology
 
 ---
 
+## 📊 Profile Activity
+
+The contribution visualization above is **generated locally as SVG from GitHub's public contribution calendar**. It does not use GitHub-readme-stats, streak services, a GitHub personal access token, JavaScript, or an external statistics dashboard.
+
+### Profile Art Pipeline
+
+`avi-ascii.svg`  
+→ monochrome self-typing ASCII portrait
+
+`info-card.svg`  
+→ animated neofetch-style identity / stack card
+
+`contrib-heatmap.svg`  
+→ 53-week contribution calendar with animated reveal
+
+`.github/workflows/update-profile-art.yml`  
+→ refreshes contribution data automatically every day
+
+---
+
+## 💻 Local Portrait Setup
+
+The repository includes the complete portrait pipeline.
+
+1. Put your preferred profile photo in the repository root as `source-photo.jpg`.
+2. Install the portrait dependencies:
+   ```bash
+   pip install -r scripts/requirements.txt
+   ```
+3. Prepare the image:
+   ```bash
+   python scripts/prep_photo.py source-photo.jpg
+   ```
+4. Generate the animated ASCII SVG:
+   ```bash
+   python scripts/make_ascii_svg.py
+   ```
+5. Commit the new `avi-ascii.svg`.
+
+The source photo and intermediate image are ignored by Git so they do not become part of the public repository.
+
+---
+
 <div align="center">
 
-### ⚡ AI × DATA × VISION × ROBOTICS
+<code>varshith@github ~ $ echo "MECHATRONICS → AI → INTELLIGENT SYSTEMS"</code>
 
-**MECHATRONICS → SOFTWARE → INTELLIGENT SYSTEMS**
+<br><br>
 
-<br>
+<a href="https://www.linkedin.com/in/thalla-varshith-0aa11b258/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:varshith.thalla@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Varshith-2603">GitHub</a>
 
-<img src="https://komarev.com/ghpvc/?username=Varshith-2603&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views">
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Varshith-2603&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
