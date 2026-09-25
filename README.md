@@ -67,13 +67,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 📌 My Repositories
 
-![](https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🧠 **[AI/ML Engineering Tasks](https://github.com/Varshith-2603/ai-ml-engineering-tasks)** — AI/ML learning, engineering practice and implementations
+- 🎯 **[Human Face & Emotion Detection](https://github.com/Varshith-2603/emotion-detector)** — Computer vision and facial-expression detection
+- 📱 **[Manim Templates — SkillBanc](https://github.com/Varshith-2603/manim-templates-skill-banc)** — Educational animation and Manim templates
+- 👤 **[Varshith-2603 Profile](https://github.com/Varshith-2603/varshith-2603)** — Personal GitHub profile and portfolio
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Varshith-2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
