@@ -1,107 +1,125 @@
 <div align="center">
 
-<h3><code>varshith@github ~ $ ./contributions.sh</code></h3>
+# Thalla Varshith
 
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap">
+### AI/ML Engineer · Computer Vision · Robotics
 
-<br><br>
+B.Tech Mechatronics Engineer building practical AI systems and software at the intersection of **machine learning, computer vision, and intelligent robotics**.
 
-<h3><code>varshith@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated ASCII profile portrait"></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch-style profile information"></td>
-</tr>
-</table>
-
-<br>
-
-<code>varshith@github ~ $ cat README.md</code>
+[LinkedIn](https://www.linkedin.com/in/thalla-varshith-0aa11b258/) · [Email](mailto:varshith.thalla@gmail.com) · [GitHub](https://github.com/Varshith-2603)
 
 </div>
 
 ---
 
-## 🧠 About
+## About
 
-I'm **Thalla Varshith**, a B.Tech Mechatronics Engineer building toward **AI/ML Engineering, Applied AI, Computer Vision, and Robotics + AI**.
+I am a Mechatronics Engineering graduate focused on **AI/ML engineering and applied intelligent systems**.
 
-My work sits at the intersection of:
+My current technical focus includes:
 
-`MECHATRONICS` → `SOFTWARE` → `DATA` → `AI` → `INTELLIGENT SYSTEMS`
+- Machine Learning and Deep Learning
+- Computer Vision
+- Python-based AI applications
+- Model development and evaluation
+- AI application APIs and deployment
+- Robotics, embedded systems and automation
+- Mechanical design, CAD and rapid prototyping
 
-### Current Focus
-
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🧠 LLM Engineering, Transformers & RAG
-- 🦾 Robotics and intelligent automation
-- ⚙️ SolidWorks, 3D printing & rapid prototyping
-- 💻 Python, PyTorch, TensorFlow, OpenCV and AI engineering tools
+I prefer building projects end-to-end — from understanding the problem and preparing data to training models, evaluating results, and turning them into usable applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
+
+**Programming & Data**
+
+Python · SQL · NumPy · Pandas
+
+**Machine Learning & AI**
+
+Scikit-learn · PyTorch · TensorFlow · Keras
+
+**Computer Vision & Applications**
+
+OpenCV · Streamlit · FastAPI
+
+**Engineering & Robotics**
+
+Arduino · SolidWorks · 3D Printing · Rapid Prototyping
+
+**Developer Tools**
+
+Git · GitHub · VS Code · Google Colab
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,git,github,fastapi,arduino&perline=10&theme=dark" alt="Technology stack">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
-<img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
-<img src="https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=E31B23" alt="SolidWorks">
-<img src="https://img.shields.io/badge/3D%20Printing-0d1117?style=for-the-badge" alt="3D Printing">
-<img src="https://img.shields.io/badge/LLMs%20%2B%20RAG-0d1117?style=for-the-badge" alt="LLMs and RAG">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,fastapi,git,github,arduino&perline=11&theme=dark" alt="Technical skills">
 </p>
 
 ---
 
-## 🚀 Projects
+## Selected Projects
 
-### `01` — AI / ML & Computer Vision
+### Human Face & Emotion Detection
+**Python · OpenCV · TensorFlow/Keras**
 
-**Human Face Detection**  
-Real-time face detection using OpenCV's DNN module and pretrained TensorFlow models.
+Computer vision application for detecting faces and classifying facial expressions, with a focus on real-time image processing and practical model integration.
 
-→ [Repository](https://github.com/Varshith-2603/emotion-detector)
+→ [View repository](https://github.com/Varshith-2603/emotion-detector)
 
-### `02` — AI/ML Engineering Practice
+### AI/ML Engineering Tasks
+**Python · Mathematics · Machine Learning · Deep Learning**
 
-**AI/ML Engineering Tasks**  
-Structured practice covering Python, mathematics, DSA, SQL, machine learning, deep learning and AI engineering.
+A structured engineering workspace covering Python, mathematical foundations, data handling, machine learning, deep learning and related AI engineering practice.
 
-→ [Repository](https://github.com/Varshith-2603/ai-ml-engineering-tasks)
+→ [View repository](https://github.com/Varshith-2603/ai-ml-engineering-tasks)
 
-### `03` — Robotics & Embedded Systems
+### Bluetooth-Controlled Car
+**Arduino · Embedded Systems · Bluetooth**
 
-**Bluetooth-Controlled Car**  
-Arduino + L298N motor driver + Bluetooth control + hardware troubleshooting.
+Built and tested a Bluetooth-controlled mobile robot using Arduino-based control, motor driving and hardware integration.
 
-**Robotic Arm Design**  
-SolidWorks modelling, assembly and kinematic analysis — *in progress*.
+### Robotic Arm Design
+**SolidWorks · Robotics · Motion Analysis**
 
-### `04` — Mechanical Design & Rapid Prototyping
+Designed a robotic arm in SolidWorks with assembly and motion-analysis work as part of the robotics learning track.
 
-**Gear Pump Design & Working Model**  
-3D modelling, FDM printing with PLA, dimensional validation and prototype assembly.
+### Gear Pump Design & Prototype
+**CAD · 3D Printing · Rapid Prototyping**
+
+Designed a working gear-pump model and produced a physical PLA prototype using 3D printing.
 
 ---
 
-## 🧪 Engineering Experience
+## Engineering Experience
 
-**Lohitha Power Products — Electrical Engineering Intern**  
-*Hyderabad · Jun 2024 – Jul 2024*
+### Lohitha Power Products — Electrical Engineering Intern
+**Hyderabad**
+
+Worked with electrical power equipment and developed practical understanding of:
 
 - Servo-controlled voltage stabilizers
-- Air-cooled and ultra-isolation transformers
-- MCBs and power-quality concepts
-- Industrial safety and electrical systems
+- Air-cooled transformers
+- Ultra-isolation transformers
+- Electrical loads and power factor
+- MCBs and power-quality fundamentals
+
+The experience strengthened my understanding of how engineering concepts move from theory into real hardware and industrial applications.
 
 ---
 
-## 🎓 Certifications
+## Education
+
+**B.Tech — Mechatronics Engineering**  
+ICFAI Tech School, Hyderabad
+
+Focus areas include:
+
+Mechatronics · Robotics · Control Systems · Electronics · Programming · AI/ML
+
+---
+
+## Certifications & Practical Training
 
 - 3D Printing Machine — Understanding & Operation
 - Drone Technology — Parts Dismantling & Assembly
@@ -109,59 +127,44 @@ SolidWorks modelling, assembly and kinematic analysis — *in progress*.
 
 ---
 
-## 📊 Profile Activity
+## Current Learning
 
-The contribution visualization above is **generated locally as SVG from GitHub's public contribution calendar**. It does not use GitHub-readme-stats, streak services, a GitHub personal access token, JavaScript, or an external statistics dashboard.
+I am strengthening the engineering foundations required for production-oriented AI/ML roles:
 
-### Profile Art Pipeline
+**Data Structures & Algorithms** → **Machine Learning** → **Deep Learning** → **Computer Vision** → **AI Engineering** → **LLM / RAG Systems** → **Deployment & ML Systems**
 
-`avi-ascii.svg`  
-→ monochrome self-typing ASCII portrait
-
-`info-card.svg`  
-→ animated neofetch-style identity / stack card
-
-`contrib-heatmap.svg`  
-→ 53-week contribution calendar with animated reveal
-
-`.github/workflows/update-profile-art.yml`  
-→ refreshes contribution data automatically every day
+The goal is to combine strong software fundamentals with applied AI and my mechatronics background.
 
 ---
 
-## 💻 Local Portrait Setup
+## Engineering Approach
 
-The repository includes the complete portrait pipeline.
+    Problem
+       ↓
+    Data / Inputs
+       ↓
+    Model / Algorithm
+       ↓
+    Evaluation
+       ↓
+    Application / API
+       ↓
+    Deployment
 
-1. Put your preferred profile photo in the repository root as `source-photo.jpg`.
-2. Install the portrait dependencies:
-   ```bash
-   pip install -r scripts/requirements.txt
-   ```
-3. Prepare the image:
-   ```bash
-   python scripts/prep_photo.py source-photo.jpg
-   ```
-4. Generate the animated ASCII SVG:
-   ```bash
-   python scripts/make_ascii_svg.py
-   ```
-5. Commit the new `avi-ascii.svg`.
-
-The source photo and intermediate image are ignored by Git so they do not become part of the public repository.
+I am particularly interested in systems where **software, AI and physical engineering** meet.
 
 ---
+
+## Connect
 
 <div align="center">
 
-<code>varshith@github ~ $ echo "MECHATRONICS → AI → INTELLIGENT SYSTEMS"</code>
+[LinkedIn](https://www.linkedin.com/in/thalla-varshith-0aa11b258/) · [GitHub](https://github.com/Varshith-2603) · [Email](mailto:varshith.thalla@gmail.com)
 
-<br><br>
+</div>
 
-<a href="https://www.linkedin.com/in/thalla-varshith-0aa11b258/">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:varshith.thalla@gmail.com">Email</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/Varshith-2603">GitHub</a>
+<br>
 
+<div align="center">
+<sub>Building practical systems. Learning continuously. Engineering with intent.</sub>
 </div>
