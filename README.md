@@ -1,102 +1,195 @@
 <div align="center">
 
-# Thalla Varshith
+# Hi there 👋, I'm Varshith
 
-### AI/ML Engineer · Computer Vision · Robotics
+### AI/ML Engineer | Computer Vision | Robotics
 
-B.Tech Mechatronics Engineer building practical AI systems and software at the intersection of **machine learning, computer vision, and intelligent robotics**.
-
-[LinkedIn](https://www.linkedin.com/in/thalla-varshith-0aa11b258/) · [Email](mailto:varshith.thalla@gmail.com) · [GitHub](https://github.com/Varshith-2603)
+**B.Tech Mechatronics Engineer** focused on building practical AI systems, machine learning applications and intelligent engineering solutions.
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
 
-I am a Mechatronics Engineering graduate focused on **AI/ML engineering and applied intelligent systems**.
+<img src="https://github.com/Varshith-2603.png" width="180" alt="Varshith profile picture">
 
-My current technical focus includes:
+### Thalla Varshith
 
-- Machine Learning and Deep Learning
-- Computer Vision
-- Python-based AI applications
-- Model development and evaluation
-- AI application APIs and deployment
-- Robotics, embedded systems and automation
-- Mechanical design, CAD and rapid prototyping
+**AI/ML Engineer**  
+Computer Vision · Robotics  
+Mechatronics Engineering
 
-I prefer building projects end-to-end — from understanding the problem and preparing data to training models, evaluating results, and turning them into usable applications.
+India
+
+[LinkedIn](https://www.linkedin.com/in/thalla-varshith-0aa11b258/)  
+[Email](mailto:varshith.thalla@gmail.com)
+
+</td>
+
+<td width="70%" valign="top">
+
+## About Me
+
+- 🖥️ Building **AI/ML applications and computer vision systems**
+- 🤖 Combining **AI with robotics and mechatronics**
+- 🧠 Learning **machine learning, deep learning, LLMs and RAG**
+- ⚙️ Interested in **AI engineering, ML systems and deployment**
+- 🔧 Background in **CAD, embedded systems and rapid prototyping**
+- 📚 Currently strengthening **DSA, ML fundamentals and software engineering**
+
+I enjoy taking a problem from **idea → implementation → evaluation → usable application**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-**Programming & Data**
-
-Python · SQL · NumPy · Pandas
-
-**Machine Learning & AI**
-
-Scikit-learn · PyTorch · TensorFlow · Keras
-
-**Computer Vision & Applications**
-
-OpenCV · Streamlit · FastAPI
-
-**Engineering & Robotics**
-
-Arduino · SolidWorks · 3D Printing · Rapid Prototyping
-
-**Developer Tools**
-
-Git · GitHub · VS Code · Google Colab
+<table>
+<tr>
+<td><b>Languages & Data</b></td>
+<td>Python · SQL · NumPy · Pandas</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>PyTorch · TensorFlow · Keras · Scikit-learn</td>
+</tr>
+<tr>
+<td><b>Computer Vision</b></td>
+<td>OpenCV · Image Processing · Deep Learning</td>
+</tr>
+<tr>
+<td><b>Backend & Apps</b></td>
+<td>FastAPI · Streamlit</td>
+</tr>
+<tr>
+<td><b>Robotics & Engineering</b></td>
+<td>Arduino · SolidWorks · 3D Printing · Rapid Prototyping</td>
+</tr>
+<tr>
+<td><b>Developer Tools</b></td>
+<td>Git · GitHub · VS Code · Google Colab</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,fastapi,git,github,arduino&perline=11&theme=dark" alt="Technical skills">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,fastapi,git,github,arduino&perline=11&theme=dark" alt="Technology stack">
 </p>
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Human Face & Emotion Detection
+
 **Python · OpenCV · TensorFlow/Keras**
 
-Computer vision application for detecting faces and classifying facial expressions, with a focus on real-time image processing and practical model integration.
+Computer vision project for face detection and facial-expression classification with real-time image processing.
 
-→ [View repository](https://github.com/Varshith-2603/emotion-detector)
+[View repository →](https://github.com/Varshith-2603/emotion-detector)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### AI/ML Engineering Tasks
-**Python · Mathematics · Machine Learning · Deep Learning**
 
-A structured engineering workspace covering Python, mathematical foundations, data handling, machine learning, deep learning and related AI engineering practice.
+**Python · ML · Deep Learning · Mathematics**
 
-→ [View repository](https://github.com/Varshith-2603/ai-ml-engineering-tasks)
+Structured workspace for developing Python, mathematical, machine learning and AI engineering foundations.
+
+[View repository →](https://github.com/Varshith-2603/ai-ml-engineering-tasks)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Bluetooth-Controlled Car
+
 **Arduino · Embedded Systems · Bluetooth**
 
-Built and tested a Bluetooth-controlled mobile robot using Arduino-based control, motor driving and hardware integration.
+Arduino-based mobile robot integrating Bluetooth control, motor driving and hardware components.
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Robotic Arm Design
+
 **SolidWorks · Robotics · Motion Analysis**
 
-Designed a robotic arm in SolidWorks with assembly and motion-analysis work as part of the robotics learning track.
+Robotic arm modelling and assembly work developed as part of my robotics engineering track.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Gear Pump Design & Prototype
-**CAD · 3D Printing · Rapid Prototyping**
 
-Designed a working gear-pump model and produced a physical PLA prototype using 3D printing.
+**CAD · 3D Printing · PLA**
+
+Designed a working gear-pump model and developed a physical prototype using FDM 3D printing.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering + AI
+
+**Mechatronics · AI · Automation**
+
+Exploring applications where software, machine learning, embedded systems and physical engineering work together.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Experience
+## 📊 GitHub Overview
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### GitHub Stats
+
+<img src="./profile-stats.svg" width="100%" alt="GitHub profile overview">
+
+</td>
+
+<td width="50%" valign="top">
+
+### Contribution Activity
+
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution activity">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Engineering Experience
 
 ### Lohitha Power Products — Electrical Engineering Intern
+
 **Hyderabad**
 
-Worked with electrical power equipment and developed practical understanding of:
+Worked with electrical power equipment and developed practical exposure to:
 
 - Servo-controlled voltage stabilizers
 - Air-cooled transformers
@@ -104,67 +197,56 @@ Worked with electrical power equipment and developed practical understanding of:
 - Electrical loads and power factor
 - MCBs and power-quality fundamentals
 
-The experience strengthened my understanding of how engineering concepts move from theory into real hardware and industrial applications.
+This experience connected electrical engineering theory with practical industrial equipment and systems.
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Tech — Mechatronics Engineering**  
 ICFAI Tech School, Hyderabad
 
-Focus areas include:
-
-Mechatronics · Robotics · Control Systems · Electronics · Programming · AI/ML
+**Core areas:** Mechatronics · Robotics · Electronics · Control Systems · Programming · AI/ML
 
 ---
 
-## Certifications & Practical Training
+## 🏆 Certifications & Practical Training
 
-- 3D Printing Machine — Understanding & Operation
-- Drone Technology — Parts Dismantling & Assembly
-- Rapid Prototyping Using Laser Scanning Technology
-
----
-
-## Current Learning
-
-I am strengthening the engineering foundations required for production-oriented AI/ML roles:
-
-**Data Structures & Algorithms** → **Machine Learning** → **Deep Learning** → **Computer Vision** → **AI Engineering** → **LLM / RAG Systems** → **Deployment & ML Systems**
-
-The goal is to combine strong software fundamentals with applied AI and my mechatronics background.
+- **3D Printing Machine** — Understanding & Operation
+- **Drone Technology** — Parts Dismantling & Assembly
+- **Rapid Prototyping** — Laser Scanning Technology
 
 ---
 
-## Engineering Approach
+## 📌 Current Focus
 
-    Problem
-       ↓
-    Data / Inputs
-       ↓
-    Model / Algorithm
-       ↓
-    Evaluation
-       ↓
-    Application / API
-       ↓
-    Deployment
-
-I am particularly interested in systems where **software, AI and physical engineering** meet.
+<table>
+<tr>
+<td align="center">DSA</td>
+<td>→</td>
+<td align="center">Machine Learning</td>
+<td>→</td>
+<td align="center">Deep Learning</td>
+<td>→</td>
+<td align="center">AI Engineering</td>
+</tr>
+<tr>
+<td colspan="7" align="center">Computer Vision · LLMs · RAG · Deployment · ML Systems</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/thalla-varshith-0aa11b258/) · [GitHub](https://github.com/Varshith-2603) · [Email](mailto:varshith.thalla@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalla-varshith-0aa11b258/)
+[![GitHub](https://img.shields.io/badge/GitHub-Varshith--2603-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varshith-2603)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varshith.thalla@gmail.com)
 
 <br>
 
-<div align="center">
-<sub>Building practical systems. Learning continuously. Engineering with intent.</sub>
+<sub>Building practical systems at the intersection of AI, software and engineering.</sub>
+
 </div>
