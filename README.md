@@ -12,6 +12,8 @@
 
 # 💫 About Me
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
+
 - 🖥️ Building AI/ML applications and computer vision systems
 - 🤖 Combining AI with robotics and mechatronics
 - 🧠 Learning machine learning, deep learning, LLMs and RAG
