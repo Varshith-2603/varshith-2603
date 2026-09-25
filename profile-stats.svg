@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360">
+<defs>
+<style>
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}} .a{animation:in .5s ease-out both}
+</style>
+</defs>
+<rect width="760" height="360" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="42" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="20" font-weight="700">GitHub Profile Overview</text>
+<text x="30" y="68" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Varshith-2603 · engineering portfolio</text>
+<g class="a" font-family="Arial,sans-serif">
+<rect x="30" y="95" width="210" height="92" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="50" y="124" fill="#8b949e" font-size="12">PUBLIC REPOSITORIES</text><text x="50" y="162" fill="#f0f6fc" font-size="28" font-weight="700">4</text>
+<rect x="275" y="95" width="210" height="92" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="295" y="124" fill="#8b949e" font-size="12">PRIMARY FOCUS</text><text x="295" y="158" fill="#7ee787" font-size="16" font-weight="700">AI / ML</text><text x="295" y="178" fill="#c9d1d9" font-size="11">Computer Vision</text>
+<rect x="520" y="95" width="210" height="92" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="540" y="124" fill="#8b949e" font-size="12">ENGINEERING</text><text x="540" y="158" fill="#58a6ff" font-size="16" font-weight="700">Robotics</text><text x="540" y="178" fill="#c9d1d9" font-size="11">Mechatronics</text>
+<rect x="30" y="212" width="700" height="112" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="50" y="242" fill="#8b949e" font-size="12">CURRENT TECHNICAL DIRECTION</text>
+<text x="50" y="275" fill="#f0f6fc" font-size="15" font-weight="700">Python  ·  PyTorch  ·  TensorFlow  ·  OpenCV  ·  FastAPI</text>
+<text x="50" y="300" fill="#c9d1d9" font-size="13">Machine Learning  ·  Deep Learning  ·  LLMs / RAG  ·  ML Systems</text>
+</g>
+</svg>
