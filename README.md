@@ -27,8 +27,6 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **ML / Deep Learning**
@@ -88,17 +86,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Varshith-2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Varshith-2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 📈 GitHub Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Varshith-2603&theme=react-dark&hide_border=false&area=true)
 
 ## 🐍 Contribution Snake
 
