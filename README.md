@@ -84,6 +84,7 @@
 
 > This card only populates once you install the [WakaTime](https://wakatime.com/) editor plugin and code with it for a few days — until then it'll show as empty. Replace `your-wakatime-username` below with your real WakaTime username once you've signed up.
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=dark&hide_border=false&layout=compact)
+[![WakaTime Stats](https://vercel.app)](https://wakatime.com/@e83c3658-58b9-4cae-824c-5dfe37e5a045)
+
 
 
