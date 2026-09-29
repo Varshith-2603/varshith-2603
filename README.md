@@ -10,53 +10,263 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI%2FML+applications+and+CV+systems;Exploring+LLMs%2C+RAG+and+AI+Agents;Merging+Mechatronics+with+Machine+Learning" alt="Typing SVG" />
 </p>
 
-# 💫 About Me
+## 👋 About Me
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
+I'm **Varshith Thalla**, a **Mechatronics Engineer and AI/ML enthusiast** passionate about building intelligent systems that connect **Artificial Intelligence with the physical world**.
 
-- 🖥️ Building AI/ML applications and computer vision systems
-- 🤖 Combining AI with robotics and mechatronics
-- 🧠 Learning machine learning, deep learning, LLMs and RAG
-- ⚙️ Interested in AI engineering, ML systems and deployment
-- 🔧 Background in CAD, embedded systems and rapid prototyping
-- 📚 Currently strengthening DSA, ML fundamentals, math for ML and software engineering
-- 🚀 I enjoy taking a problem from idea → implementation → evaluation → usable application
+My journey sits at the intersection of **Machine Learning, Deep Learning, Computer Vision, Robotics, and Mechatronics**. I enjoy taking a problem from raw data and mathematical foundations all the way to a working intelligent system.
 
-## 💻 Tech Stack
+I'm currently strengthening my expertise in **Python, Data Science, Machine Learning, PyTorch, Computer Vision, Mathematics for AI, and Robotics**, while continuously building hands-on projects to turn what I learn into real engineering solutions.
 
-**Languages**
+What excites me most is **Physical AI**—machines that can **perceive, understand, learn, make decisions, and act** in the real world.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+> **I don't just want to build models. I want to build machines that can use intelligence.** 🤖
 
-**ML / Deep Learning**
+🎯 **Focus:** AI/ML • Robotics • Computer Vision • Physical AI
+⚙️ **Background:** Mechatronics Engineering
+🧠 **Currently exploring:** Machine Learning • Deep Learning • Robotics • Intelligent Systems
+🚀 **Goal:** Build technology where **AI meets the physical world**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Data & Analysis**
+# 🛠️ Tech Stack
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+### 💻 Languages & Core
 
-**Deployment & MLOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,bash" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Python** • **C++** • **Java** • **Git** • **GitHub** • **Linux / Bash**
 
-**Design & Hardware**
+---
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E4002B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🧠 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+**NumPy** • **Pandas** • **SciPy** • **Scikit-learn** • **PyTorch** • **TensorFlow**
+
+**Machine Learning**
+- Regression & Classification
+- Decision Trees & Random Forest
+- SVM & k-NN
+- XGBoost / LightGBM
+- Clustering
+- PCA & Dimensionality Reduction
+- Anomaly Detection
+- Feature Engineering
+- Model Evaluation
+- Model Interpretability
+
+---
+
+### 🔥 Deep Learning & Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Neural Networks** • **CNNs** • **Transfer Learning** • **Image Classification**  
+**Object Detection** • **Image Segmentation** • **OpenCV**
+
+**Architectures / Models**
+
+`ResNet` `VGG` `DenseNet` `EfficientNet` `YOLO` `Faster R-CNN` `SSD` `U-Net` `Vision Transformers` `SAM`
+
+---
+
+### 🤖 Generative AI & LLMs
+
+**Transformers** • **Attention** • **Embeddings** • **Tokenization**  
+**BERT** • **GPT** • **RoBERTa** • **T5**
+
+**LLM Engineering**
+
+`RAG` `Vector Search` `Hybrid Search` `Prompt Engineering`  
+`Fine-Tuning` `LoRA` `QLoRA` `PEFT` `RLHF` `DPO`
+
+**Frameworks / Tools**
+
+`OpenAI API` • `LangChain` • `FAISS` • `Chroma` • `Pinecone` • `Milvus`
+
+---
+
+### 🧠 AI Agents
+
+**Tool Calling** • **Function Calling** • **Agent Memory**  
+**Planning** • **Multi-Agent Systems** • **MCP** • **Agent Frameworks**
+
+---
+
+### 📊 Data Science & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Pandas** • **NumPy** • **Matplotlib** • **Seaborn** • **Plotly**
+
+`EDA` `Data Cleaning` `Feature Engineering` `Statistics`  
+`Data Visualization` `Data Preparation` `Outlier Analysis`
+
+---
+
+### 🗄️ Databases & SQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+**SQL** • **MySQL** • **PostgreSQL**
+
+`Joins` `Subqueries` `CTEs` `Window Functions`  
+`Indexes` `Normalization` `Transactions` `ACID` `Query Optimization`
+
+---
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+**FastAPI** • **Flask** • **REST APIs** • **JSON**
+
+`CRUD` `Authentication` `Middleware` `API Design` `Model Serving`
+
+---
+
+### ☁️ Cloud & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx" />
+</p>
+
+**AWS** • **Microsoft Azure** • **Google Cloud**
+
+`EC2` `S3` `SageMaker` `Azure ML` `Blob Storage` `Vertex AI` `BigQuery`
+
+**Deployment**
+
+`Docker` • `Kubernetes` • `Nginx` • `Load Balancing` • `gRPC`
+
+---
+
+### 🔄 MLOps & Production AI
+
+**MLflow** • **DVC** • **Weights & Biases** • **Kubeflow**
+
+`Experiment Tracking`  
+`Model Versioning`  
+`Model Registry`  
+`Reproducibility`  
+`CI/CD`  
+`Model Monitoring`  
+`Data / Model Drift`  
+`Retraining Pipelines`
+
+---
+
+### ⚡ Data Engineering
+
+**ETL** • **Data Pipelines** • **CSV** • **JSON** • **Parquet**
+
+**Apache Spark** • **Apache Kafka** • **Apache Airflow**
+
+---
+
+### 🧩 Data Structures & Algorithms
+
+**Arrays** • **Strings** • **Linked Lists** • **Stacks** • **Queues**  
+**Binary Search** • **Trees** • **Heaps** • **Graphs** • **Dynamic Programming**
+
+`BFS` `DFS` `Dijkstra` `Kruskal` `Prim` `Floyd-Warshall`  
+`Sliding Window` `Two Pointers` `Prefix Sum` `Recursion`
+
+🎯 **Problem Solving:** LeetCode-style algorithmic problem solving
+
+---
+
+### 🧮 Mathematics for AI
+
+**Linear Algebra**
+
+`Vectors` `Matrices` `Eigenvalues` `Eigenvectors` `SVD` `PCA`  
+`Dot Product` `Cosine Similarity` `Projections`
+
+**Calculus**
+
+`Gradients` `Chain Rule` `Jacobian` `Hessian` `Gradient Descent` `SGD`
+
+**Probability & Statistics**
+
+`Bayes Theorem` `Distributions` `Expectation`  
+`Hypothesis Testing` `Confidence Intervals` `Correlation` `Covariance`
+
+---
+
+### 🧠 Reinforcement Learning
+
+**MDP** • **Bellman Equation** • **Q-Learning** • **SARSA**  
+**DQN** • **PPO**
+
+---
+
+### 🏗️ Software Engineering
+
+**SOLID Principles** • **Design Patterns** • **Clean Code**  
+**Testing** • **API Design** • **Microservices**
+
+**Python Engineering**
+
+`OOP` `Type Hints` `Decorators` `Generators` `Iterators`  
+`Async Programming` `Multithreading` `Multiprocessing`  
+`Logging` `Pytest` `Profiling` `Performance Optimization`
+
+---
+
+### 🤖 Robotics & Mechatronics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab" />
+</p>
+
+**Robotics** • **Mechatronics** • **Arduino** • **MATLAB / Simulink**  
+**SolidWorks** • **Sensors** • **Actuators** • **Control Systems**  
+**Computer Vision** • **3D Printing**
+
+---
+
+# ⚡ Core Engineering Stack
+
+```text
+                    ┌─────────────────────┐
+                    │    ARTIFICIAL AI    │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+         MACHINE LEARNING   DEEP LEARNING    GEN AI
+              │                │                │
+              ▼                ▼                ▼
+         DATA SCIENCE     COMPUTER VISION     LLMs
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                         AI ENGINEERING
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+          MLOps / CLOUD     APIs / BACKEND    ROBOTICS
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                         PHYSICAL AI
+                               │
+                               ▼
+                    🤖 INTELLIGENT MACHINES
 
 ## 📌 Pinned & Frequently Contributed Repositories
 
@@ -82,9 +292,11 @@
 
 ## ⏱️ WakaTime Weekly Stats
 
-> This card only populates once you install the [WakaTime](https://wakatime.com/) editor plugin and code with it for a few days — until then it'll show as empty. Replace `your-wakatime-username` below with your real WakaTime username once you've signed up.
+### ⏱️ Coding Activity
 
-[![WakaTime Stats](https://vercel.app)](https://wakatime.com/@e83c3658-58b9-4cae-824c-5dfe37e5a045)
+<a href="https://wakatime.com/dashboard">
+  <img src="https://img.shields.io/badge/WakaTime-View%20Coding%20Activity-00A98F?style=for-the-badge&logo=wakatime&logoColor=white" />
+</a>
 
 
 
