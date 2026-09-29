@@ -33,10 +33,10 @@ What excites me most is **Physical AI**—machines that can **perceive, understa
 ### 💻 Languages & Core
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,bash" />
 </p>
 
-**Python** • **C++** • **Java** • **Git** • **GitHub** • **Linux / Bash**
+**Python**   • **Git** • **GitHub** • **Linux / Bash**
 
 ---
 
