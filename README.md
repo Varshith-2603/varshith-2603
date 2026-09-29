@@ -237,37 +237,6 @@ What excites me most is **Physical AI**—machines that can **perceive, understa
 **SolidWorks** • **Sensors** • **Actuators** • **Control Systems**  
 **Computer Vision** • **3D Printing**
 
----
-
-# ⚡ Core Engineering Stack
-
-```text
-                    ┌─────────────────────┐
-                    │    ARTIFICIAL AI    │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-         MACHINE LEARNING   DEEP LEARNING    GEN AI
-              │                │                │
-              ▼                ▼                ▼
-         DATA SCIENCE     COMPUTER VISION     LLMs
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                         AI ENGINEERING
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-          MLOps / CLOUD     APIs / BACKEND    ROBOTICS
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                         PHYSICAL AI
-                               │
-                               ▼
-                    🤖 INTELLIGENT MACHINES
-
 
 ## 🛠️ Featured Projects
 
