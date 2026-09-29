@@ -268,12 +268,6 @@ What excites me most is **Physical AI**—machines that can **perceive, understa
                                ▼
                     🤖 INTELLIGENT MACHINES
 
-## 📌 Pinned & Frequently Contributed Repositories
-
-> GitHub only lets you choose pins from your own profile settings (not from a README), so these render as cards — go to your profile → **Customize your pins** and pick the same repos to make them "officially" pinned too. Swap the placeholder repo names below for your actual repo names (case-sensitive).
-
-[![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-2603&repo=Human-Face-Detection&theme=dark)](https://github.com/Varshith-2603/Human-Face-Detection)
-[![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-2603&repo=Bluetooth-Controlled-Car&theme=dark)](https://github.com/Varshith-2603/Bluetooth-Controlled-Car)
 
 ## 🛠️ Featured Projects
 
